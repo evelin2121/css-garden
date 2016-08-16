@@ -1,0 +1,8 @@
+body { background-image: url(css.jpg) ;
+background-attachment:fixed; }
+h1 { color: black; font-size: 30px
+; font-family: fantasy; text-align:center; border-style: solid; } 
+h2 { color: black ; font-family: Vendana ; text-align:center ;   }
+
+div { color: black ; font-family: cursive ; text-align: center ; } 
+h3 {  text-decoration: underline; }
